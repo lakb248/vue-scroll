@@ -1,6 +1,6 @@
 /**
  * @file vue iscroll diretive
- * @author linbin02@baidu.com
+ * @author lakb248@gmail.com
  */
 ;(function () {
     var vueScroll = {};
